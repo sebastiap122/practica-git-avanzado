@@ -100,5 +100,10 @@ Ejecuta git reflog. En tu README.md, en una sección
 "Investigación adicional", explica en 2-3 líneas qué información 
 muestra este comando.
 
+### respuesta a investigacion adicional
+El comando `git reflog` muestra el historial de movimientos de la referencia HEAD, incluyendo commits, resets, merges y rebases. 
+Es útil para recuperar commits perdidos o entender cómo ha cambiado la rama a lo largo del tiempo.
+
+
 ## ✅ Entrega
 Link de tu repositorio (fork) + pantallazo de "git log --oneline"
